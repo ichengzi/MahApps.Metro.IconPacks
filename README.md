@@ -1,3 +1,5 @@
+【此项目因为大量使用c#6.0的特性，所以需要VS2015来编译，在vs2013下总是出错】
+
 # MahApps.Metro.IconPacks
 
 Some awesome icons all together...
